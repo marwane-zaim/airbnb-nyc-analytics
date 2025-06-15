@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏠 Airbnb NYC Analytics Dashboard with Chatbot AI
 
 <div align="center">
@@ -118,7 +117,7 @@ Notre dashboard transforme **48 895 annonces Airbnb** en insights exploitables g
 
 ```bash
 # 1️⃣ Cloner le projet
-git clone https://github.com/votre-username/airbnb-nyc-analytics.git
+git clone https://github.com/marwane-zaim/airbnb-nyc-analytics
 cd airbnb-nyc-analytics
 
 # 2️⃣ Installer les dépendances
@@ -360,15 +359,6 @@ L'interface du prédicteur offre :
 3. ⭐ **Marketing** : Encourager les reviews pour la visibilité
 4. 📊 **Pricing** : Utiliser nos modèles pour l'optimisation
 
-## 🚀 Déploiement
-
-### 🌐 **Streamlit Cloud**
-```bash
-# Déploiement automatique via GitHub
-streamlit.io/deploy
-```
-
-
 
 ### 🎯 **Domaines d'Amélioration**
 - 🤖 Nouveaux modèles ML
@@ -388,6 +378,3 @@ streamlit.io/deploy
 **Développé avec ❤️ par Carolina HENAO URIBE & Marwane ZAIM SASSI**
 
 </div>
-=======
-# airbnb-nyc-analytics
->>>>>>> 4c716f0c5a0d22b28832a0349062a861fe7e16b1
