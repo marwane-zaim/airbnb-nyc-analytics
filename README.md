@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 Airbnb NYC Analytics Dashboard with Chatbot AI
 
 <div align="center">
@@ -387,3 +388,6 @@ streamlit.io/deploy
 **Développé avec ❤️ par Carolina HENAO URIBE & Marwane ZAIM SASSI**
 
 </div>
+=======
+# airbnb-nyc-analytics
+>>>>>>> 4c716f0c5a0d22b28832a0349062a861fe7e16b1
